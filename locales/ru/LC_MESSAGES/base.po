@@ -1,0 +1,358 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-03-25 01:51+AKDT\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: const.py:30
+msgid ""
+"\n"
+"<b>Hello, {0}!</b>\n"
+"\n"
+"It's fast and free wallet along with the decentralized STX (Smartholdem) exchange service."
+msgstr ""
+"\n"
+"<b>Приветствую, {0}!</b> \n"
+"\n"
+"Это быстрый и бесплатный кошелек, а также сервис моментального обмена STX (Smartholdem)."
+
+#: const.py:35
+msgid ""
+"\n"
+"If you have any questions you can ask them in @smartholdem"
+msgstr ""
+"\n"
+"Вы можете задать интересующие вопросы в @smartholdem"
+
+#: const.py:38
+msgid ""
+"\n"
+"⚠️ Attention! \n"
+"\n"
+"You operate with real money, be careful. \n"
+"\n"
+"📲 For security purposes you should set  'Two step verification' (2FA) in settings of Telegram and don't share your phone number to anyone!\n"
+"\n"
+"Support center: https://community.smartholdem.io/categories"
+msgstr ""
+"\n"
+"⚠️ Внимание, ознакомьтесь! \n"
+"\n"
+"Вы оперируете деньгами, будьте внимательны. \n"
+"\n"
+"📲 Для обеспечения безопасности средств необходимо установить 'Two step verification' (2FA) в настройках Telegram и не передавать свой телефонный номер и любые секретные коды кому-либо (даже сотрудникам Telegram)!\n"
+"\n"
+"Служба поддержки: https://community.smartholdem.io/categories"
+
+#: const.py:47
+msgid ""
+"\n"
+"💼 Smartholdem wallet\n"
+"\n"
+"Balance: {0} STH\n"
+"Equivalent: {5} {4}\n"
+"\n"
+"In the past {1} you made {2} deals on {3} STH in total.\n"
+"\n"
+"🤝 Invited: 0 users\n"
+"💰 Revenue: 0 STH\n"
+"\n"
+"Rating: (0)\n"
+"\n"
+msgstr ""
+"\n"
+"💼 Smartholdem кошелек\n"
+"\n"
+"Баланс: {0} STH\n"
+"Примерно: {5} {4}\n"
+"\n"
+"За {1} дней вами проведено {2} успешных транзакций на общую сумму {3} STH.\n"
+"\n"
+"🤝 Приглашено: 0 пользователей\n"
+"💰 Заработано: 0 STH\n"
+"\n"
+"Рейнтинг: (0)\n"
+
+#: const.py:61
+msgid ""
+"\n"
+"📥 Deposit Smartholdem\n"
+"\n"
+"Use the reusable address below to deposit STX from an external wallet\n"
+"\n"
+"❕ You should deposit coins on address bellow first. After what you can sell coins.\n"
+"\n"
+"Funds will come after one network's confirmation."
+msgstr ""
+"\n"
+"📥 Внести Smartholdem\n"
+"\n"
+"Для пополнения STH с внешнего кошелька используйте многоразовый адерс ниже.\n"
+"\n"
+"❕ Чтобы продать ваши STH следует пополнить личный кошелек по адресу ниже.\n"
+"\n"
+"Средства поступают через 1 подтверждение сети."
+
+#: const.py:70
+msgid ""
+"\n"
+"👀 Insufficient funds!\n"
+"\n"
+"You can't withdraw amount of STX that smaller than minimal amount.\n"
+"\n"
+"Min. amount: 10.1 STH.\n"
+"Available: {0} STH"
+msgstr ""
+"\n"
+"👀 Неождиданно!\n"
+"\n"
+"На вашем балансе недостаточно средств для вывода на внешний кошелек.\n"
+"\n"
+"Мин. сумма: 10.1 STH.\n"
+"Доступно: {0} STH"
+
+#: const.py:79
+msgid ""
+"\n"
+"⚠️<b>ATTENTION</b>⚠️\n"
+"For security reasons, <b>manually delete your password phrase from the chat</b> with the bot!"
+msgstr ""
+"\n"
+"⚠️<b>ВНИМАНИЕ</b>⚠️\n"
+"В целях безопасности <b>обязательно удалите вручную вашу парольную фразу из переписки</b> с ботом!"
+
+#: const.py:83
+msgid ""
+"\n"
+"Incorrect input... Try again or use /menu to exit the chain."
+msgstr ""
+"\n"
+"Введены некорректные данные. Попробуйте еще раз или используйте /menu, если хотите вернуться в главное меню."
+
+#: const.py:86
+msgid ""
+"\n"
+"🛠 Settings\n"
+"\n"
+"What do you want to change?\n"
+"\n"
+"⚠️ These settings are set according to your initial choice, but you can also change them here."
+msgstr ""
+"\n"
+"🛠 Настройки\n"
+"\n"
+"Что Вы хотите изменить?\n"
+"\n"
+"⚠️ Данные настройки установлены в соответствии с вашим изначальным выбором, но вы также можете их здесь изменить."
+
+#: const.py:93
+msgid ""
+"\n"
+"🌍 Language\n"
+"\n"
+"Choose the interface language. The change of language will not affect previously sent messages."
+msgstr ""
+"\n"
+"🌍 Язык\n"
+"\n"
+"Выберите язык интерфейса. Смена языка не повлияет на отправленные ранее сообщения."
+
+#: const.py:98
+msgid "Done!"
+msgstr "Сделано!"
+
+#: const.py:100
+msgid "You changed your mind."
+msgstr "Вы передумали."
+
+#: const.py:102
+msgid "Canceled"
+msgstr "Отменено"
+
+#: const.py:104
+msgid "Input recipient address:"
+msgstr "Введите адрес получателя:"
+
+#: const.py:106
+msgid "Input amount of coins for sending (min 10 / max 100,000):"
+msgstr "Введите количество монет для отправки (min 10 / max 100,000):"
+
+#: const.py:108
+msgid "Input your passphrase."
+msgstr "Введите вашу парольную фразу."
+
+#: const.py:110
+msgid "The transaction was successful"
+msgstr "Транзакция выполнена успешно."
+
+#: const.py:112
+msgid ""
+"\n"
+"📊 Rate STX\n"
+"\n"
+"Select the source of exchange rate of STX/{} pair. The change of source will not affect previously sent messages.\n"
+"\n"
+"Current source: {}"
+msgstr ""
+"\n"
+"📊 Курс STX\n"
+"\n"
+"Выберите источник актуального курса для пары STX/{}. Смена источника не повлияет на отправленные ранее сообщения.\n"
+"\n"
+"Текущий источник: {}"
+
+#: const.py:119
+msgid ""
+"\n"
+"💵 Currency\n"
+"\n"
+"Select a currency. This filter affects the display of the balance in your wallet.\n"
+"\n"
+"Currently «{}» is being used."
+msgstr ""
+"\n"
+"💵 Валюта\n"
+"\n"
+"Выберите валюту. Этот фильтр влияет на отображение вашего баланса в кошельке.\n"
+"\n"
+"Сейчас используется {}."
+
+#: const.py:126
+msgid ""
+"\n"
+"💳 Address\n"
+"\n"
+"Please enter the address of the external STX wallet for fast access on the withdraw stage."
+msgstr ""
+"\n"
+"💳 Адрес\n"
+"\n"
+"Напишите адрес внешнего STX кошелька для быстрого доступа при выводе. "
+
+#: const.py:131
+msgid ""
+"\n"
+"Input a name for this address."
+msgstr ""
+"\n"
+"Введите имя для данного адреса."
+
+#: const.py:134
+msgid "Yes"
+msgstr "Да"
+
+#: const.py:136
+msgid "No"
+msgstr "Нет"
+
+#: const.py:138
+msgid "Input contact name."
+msgstr "Введите имя контакта из списка выше."
+
+#: const.py:140
+msgid ""
+"\n"
+"📖 You do not have a favorite address.\n"
+"\n"
+"⚡ To add a favorite address go to the \"Settings\"➡️ \"Address\" ⚡"
+msgstr ""
+"\n"
+"📖 У вас не добавлен любимый адрес.\n"
+"\n"
+"⚡ Чтобы добавить любимый адрес нажмите \"Настройки\" ➡️ \"Адрес\" ⚡"
+
+#: const.py:145
+msgid "Would you like to use address from your contact list?"
+msgstr "Желаете использовать адрес из вашего списка контактов?"
+
+#: const.py:147
+msgid ""
+"\n"
+"🚀 About service\n"
+"\n"
+"This is the place where you can store your STX (Smartholdem), and also change them to any currency through a special exchange service.\n"
+"\n"
+"Everyone has the opportunity to receive STX (Smartholdem) for inviting new participants through an affiliate program."
+msgstr ""
+"\n"
+"🚀 О сервисе\n"
+"\n"
+"Это место где можно хранить свои STX (Smartholdem), а также менять их на любую валюту через специальный обменный сервис.\n"
+"\n"
+"У каждого есть возможность получать STX (Smartholdem) за привлечение новых участников с помощью партнеркской программы."
+
+#: const.py:154
+msgid ""
+"\n"
+"👥 Talks\n"
+"\n"
+"News, insides and actual discussions in SMART BRO groups. Join!"
+msgstr ""
+"\n"
+"👥 Общение\n"
+"\n"
+"Свежие новости, инсайды и актуальные обсуждения в группах SMART BRO. Присоединяйтесь!"
+
+#: const.py:160
+msgid ""
+"\n"
+"👔 Affiliate\n"
+"\n"
+"Invite new users and get passive profit from bot's fees! 💵 \n"
+"\n"
+"Your fee from volume: 2.5%\n"
+"\n"
+"For example: if your affiliate user make a deal on 1000 STX, you will get 25 STX of dividends. \n"
+"\n"
+"Affiliate program is perpetual; it has no limits for invitations and begins to act immediately.\n"
+"\n"
+"Keep in mind, for good results you should select right category of peoples who want to buy, sell, withdrawal STX and use mixer.\n"
+"\n"
+"Invite users via the link below."
+"\n"
+"{}"
+msgstr ""
+"\n"
+"👔 Партнерам\n"
+"\n"
+"Приглашайте новых пользователей и получайте пассивный доход от комиссий бота! 💵 \n"
+"\n"
+"Ваша комиссия от оборота: 2.5%\n"
+"\n"
+"Например: ваш подписчик проводит сделку на сумму 1000 STX, а вы получаете 25 STX дивидендов. \n"
+"\n"
+"Партнерская программа бессрочна, не имеет лимита приглашений и начинает действовать моментально. \n"
+"\n"
+"Учтите, что для достижения хороших результатов необходимо внимательно подходить к поиску целевой аудитории и привлекать только тех, кто будет покупать, продавать, выводить STX и использовать миксер.\n"
+"\n"
+"Используйте ссылку ниже для инвайта.\n"
+"\n"
+"{}"
+
+#: const.py:181
+msgid "💼 Wallet"
+msgstr "💼 Кошелек"
+
+#: const.py:182
+msgid "📊 Buy/Sell STX"
+msgstr "📊 Обмен STX"
+
+#: const.py:183
+msgid "🚀 About"
+msgstr "🚀 О сервисе"
+
+#: const.py:184
+msgid "🛠️ Settings"
+msgstr "🛠️ Настройки"
+
