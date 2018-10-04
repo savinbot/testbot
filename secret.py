@@ -14,9 +14,9 @@ path = os.path.join(os.path.dirname(path), 'cert')
 API_TOKEN = ''     # production bot.
 TOKEN = ''         # dev bot.
 
-WEBHOOK_HOST = ''
+WEBHOOK_HOST = '560539263:AAFJvogzjCCA1kM2WItnET0zwPy-CpHh62U'
 WEBHOOK_PORT = 8443         # 443, 80, 88 or 8443 (port need to be 'open')
-WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
+WEBHOOK_LISTEN = '193.110.3.66'  # In some VPS you may need to put here the IP addr
 
 WEBHOOK_SSL_CERT = path + '/webhook_cert.pem'  # Path to the ssl certificate
 WEBHOOK_SSL_PRIV = path + '/webhook_pkey.pem'  # Path to the ssl private key
